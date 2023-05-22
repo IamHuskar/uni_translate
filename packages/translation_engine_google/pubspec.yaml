@@ -1,15 +1,15 @@
 name: translation_engine_google
 description: Google translation engine
-version: 0.1.1
+version: 0.1.2
 homepage: https://github.com/biyidev/uni_translate
 
 environment:
-  sdk: ">=2.12.0 <3.0.0"
+  sdk: ">=3.0.0 <4.0.0"
 
 dependencies:
   crypto: any
   http: any
-  uni_translate_client: ^0.1.1
+  uni_translate_client: ^0.1.2
 
 dev_dependencies:
   test: ^1.0.0
